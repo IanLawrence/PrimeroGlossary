@@ -1,36 +1,36 @@
 # Summary
 
-*  [*Local Installer*](1.1/PrimeroGlossaryofTerms.md#local-installers)
+*  [*Local Installer*](PrimeroGlossaryofTerms.md#local-installers)
 
-*  [*Instance*](1.1/PrimeroGlossaryofTerms.md#instance)
+*  [*Instance*](PrimeroGlossaryofTerms.md#instance)
 
-*  [*Deployment*](1.1/PrimeroGlossaryofTerms.md#deployment)
+*  [*Deployment*](PrimeroGlossaryofTerms.md#deployment)
 
-*  [*Components*](1.1/PrimeroGlossaryofTerms.md#components)
+*  [*Components*](PrimeroGlossaryofTerms.md#components)
 
-*  [*Modules*](1.1/PrimeroGlossaryofTerms.md#modules)
+*  [*Modules*](PrimeroGlossaryofTerms.md#modules)
 
-*  [*Programs*](1.1/PrimeroGlossaryofTerms.md#programs)
+*  [*Programs*](PrimeroGlossaryofTerms.md#programs)
 
-*  [*Users*](1.1/PrimeroGlossaryofTerms.md#users)
+*  [*Users*](PrimeroGlossaryofTerms.md#users)
 
-*  [*User Groups*](1.1/PrimeroGlossaryofTerms.md#user-groups)
+*  [*User Groups*](PrimeroGlossaryofTerms.md#user-groups)
 
-*  [*Roles*](1.1/PrimeroGlossaryofTerms.md#roles)
+*  [*Roles*](PrimeroGlossaryofTerms.md#roles)
 
-*  [*Records*](1.1/PrimeroGlossaryofTerms.md#records)
+*  [*Records*](PrimeroGlossaryofTerms.md#records)
 
-*  [*Modals*](1.1/PrimeroGlossaryofTerms.md#modals)
+*  [*Modals*](PrimeroGlossaryofTerms.md#modals)
 
-*  [*Fields*](1.1/PrimeroGlossaryofTerms.md#fields)
+*  [*Fields*](PrimeroGlossaryofTerms.md#fields)
 
-*  [*Forms*](1.1/PrimeroGlossaryofTerms.md#forms)
+*  [*Forms*](PrimeroGlossaryofTerms.md#forms)
 
-	*  [*Form Subform*](1.1/PrimeroGlossaryofTerms.md#form-subform)
+	*  [*Form Subform*](PrimeroGlossaryofTerms.md#form-subform)
 
-	*  [*Form Separator*](1.1/PrimeroGlossaryofTerms.md#form-separator)
+	*  [*Form Separator*](PrimeroGlossaryofTerms.md#form-separator)
 
-	*  [*Form Groups*](1.1/PrimeroGlossaryofTerms.md#form-groups)
+	*  [*Form Groups*](PrimeroGlossaryofTerms.md#form-groups)
 
 
 
